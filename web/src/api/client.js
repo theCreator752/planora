@@ -1,4 +1,4 @@
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+const API_URL = "https://planora-wtbp.onrender.com;"
 
 const ACCESS_KEY = 'tm_access_token';
 const REFRESH_KEY = 'tm_refresh_token';
